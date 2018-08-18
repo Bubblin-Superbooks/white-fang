@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "White Fang",
-  "type": "text"
+  "type": "text",
+  "book_id": 628
 }
